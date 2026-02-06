@@ -10,9 +10,9 @@ const PRESETS = [
   "I promise to love every version of you Jaana - the strong one who fights through everything and the vulnerable one who shows me that inner child",  
   "I promise to fight for us no matter what obstacles come our way - giving up isn't an option when it comes to you and me",  
   "I promise to make you feel secure even from far away - you never have to question where you stand with me",  
-  "I promise to build the future we dream about together - the simple daily life where you're just there and that's everything",  
-  "I promise to protect that inner child you hide from everyone else - you're safe with me gudiya, all of you",  
-  "I promise this distance is just a chapter in our story, not the whole book - my love for you is permanent meri gudiya"  
+  "I promise to build the future we dream about together the simple daily life where you're just there and that's everything",  
+  "I promise to protect that inner child you hide from everyone else you're safe with me gudiya all of you",  
+  "I promise this distance is just a chapter in our story, not the whole book Jaana"  
 ];
 
 const BUD_POSITIONS = [

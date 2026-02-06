@@ -5,81 +5,81 @@ import { RoseData } from '../types';
 import { RoseIcon } from './AestheticIcons';
 
 const ROSE_LETTERS: Record<string, string> = {
-  RED: `To my Shreya,
+  RED: `To my Shreya
 
-I still blush when I say your name.. even after 11 months. You know this, mera bacha. You tell me you love it when I do, and so I keep saying it... jaana.. just to see that smile. Just to lose myself for a second in the fact that you're real and you're mine, gudiya.
+I still blush when I say your name.. even after 11 months.. You tell me you love it when I say your name.. when I call and so I keep saying it..jaana.. just to see that smile.. Just to lose myself for a second in the moment that you're real and you're mine.. gudiya..
 
-There's a moment right before I fall asleep where I think about your face... the way you look at me when you think I'm not paying attention, mera bacha. Like you're trying to memorize me the same way I'm memorizing you.. jaana. And it kills me, Shreya. It absolutely destroys me.. because I can't translate that feeling into words, gudiya.
+There's a moment right before I fall asleep where I think about your face.. the way you look at me when you think I'm not paying attention.. mera bacha.. Like you're trying to memorize me the same way I'm memorizing you.. jaana.. And it kills me.. Shreya.. It absolutely destroys me.. because I can't translate that feeling into words.. gudiya..
 
-When we talk.. I mean REALLY talk.. when you're telling me about the things that scare you, the things you've never told anyone else.. that's when I know what love actually means, mera bacha. It's not the grand gestures. It's you trusting me with the parts of you that you've locked away... and me holding them so gently they never break, jaana.. gudiya.
+When we talk.. I mean REALLY talk.. when you're telling me about the things that scare you.. the things you've never told anyone else.. that's when I know what love actually means.. meri gudiya.. It's not the grand gestures.. It's you trusting me with the parts of you that you've locked away.. and me holding them so gently they never break.. jaana.. mera bacha..
 
-Your voice changes when you're vulnerable with me... it gets softer. Smaller somehow. And I want to be the only person who gets to see you like this.. raw and unfiltered and real, mera bacha. This version of you.. just for me, jaana.. gudiya.
+Your voice changes when you're vulnerable with me.. it gets softer.. Smaller somehow.. And I want to be the only person who gets to see you like this.. raw and unfiltered and real.. gudiya.. This version of you.. just for me.. jaana.. mera bacha..
 
-I think about holding your face in my hands constantly.. about brushing your hair back and just looking at you, mera bacha. About tracing the lines of your face like I'm trying to write poetry with my fingertips.. jaana.. about the first time I get to kiss you and know it's not through a screen, gudiya.
+I think about holding your face in my hands constantly.. about brushing your hair back and just looking at you.. meri gudiya.. About tracing the lines of your face like I'm trying to write poetry with my fingertips.. jaana.. about the first time I get to kiss you and know it's not through a screen.. mera bacha..
 
-Distance is a cruel thing.. but you make even the distance feel like it means something, mera bacha. Like we're collecting moments of waiting so that when we're finally together.. every second matters.. jaana.. gudiya.
+Distance is a cruel thing.. but you make even the distance feel like it means something.. gudiya.. Like we're collecting moments of waiting so that when we're finally together.. every second matters.. jaana.. meri gudiya.. mera bacha..
 
-I love you, Shreya. The way you love me back is the bravest thing I've ever witnessed, mera bacha.
+I love you.. Shreya.. The way you love me back is the bravest thing I've ever witnessed.. mera bacha.. jaana..
 
-- Saib`,
+- Sarib`,
 
-  WHITE: `To my Jaana,
+  WHITE: `To my Jaana
 
-There are no words for you.. and somehow you've become every word I've ever needed, mera bacha.. gudiya.
+There are no words for you.. and somehow you've become every word I've ever needed.. mera bacha.. gudiya..
 
-Jaana is more than your name... it's the sound of coming home. It's the feeling of finding something you didn't know you were searching for, mera bacha. When I say it, my entire body relaxes.. like I'm finally safe, gudiya.. like you're right there.
+Jaana is more than your name..it's the sound of coming home.. It's the feeling of finding something you didn't know you were searching for.. mera bacha.. When I say it.. my entire body relaxes.. like I'm finally safe.. gudiya..like you're right there..
 
-You are the depth I didn't know I needed.. jaana. You see me.. not the version I show the world.. but the version that's terrified and hopeful and desperately in love, mera bacha. And you stay anyway.. without needing me to be anyone other than who I am, gudiya.
+You are the depth I didn't know I needed.. jaana.. You see me.. not the version I show the world.. but the version that's terrified and hopeful and desperately in love.. mera bacha.. And you stay anyway.. without needing me to be anyone other than who I am.. gudiya..
 
-There's a kind of protection in the way you love me.. Jaana. You hold my broken parts and tell me they're beautiful.. mera bacha. You tell me I'm safe with you.. and I believe you because you've never given me a reason not to, gudiya.
+There's a kind of protection in the way you love me.. Jaana.. You hold my broken parts and tell me they're beautiful.. meri gudiya.. You tell me I'm safe with you.. and I believe you because you've never given me a reason not to.. mera bacha..
 
-The distance aches.. god, it aches, jaana. I miss you in a way that's physical.. like my body knows you're not here and it refuses to believe it, mera bacha. But when you call.. when I hear your voice.. suddenly 550 kilometers doesn't feel like an ending.. gudiya. It feels like a promise we're keeping.
+The distance aches.. god.. it aches.. jaana.. I miss you in a way that's physical.. like my body knows you're not here and it refuses to believe it.. mera bacha.. But when you call.. when I hear your voice.. suddenly 550 kilometers doesn't feel like an ending.. gudiya.. It feels like a promise we're keeping..
 
-You've built a home inside me.. one I carry everywhere, jaana. On hard days, I go there.. mera bacha. Late nights, I find you in my chest.. gudiya. This feeling of belonging to someone.. of being chosen by someone who knows all the darkness and still comes back.. that's what Jaana means.
+You've built a home inside me.. one I carry everywhere.. jaana.. On hard days.. I go there.. mera bacha.. Late nights.. I find you in my chest.. gudiya.. This feeling of belonging to someone.. of being chosen by someone who knows all the darkness and still comes back.. that's what Jaana means..
 
-I want to belong to you completely, Shreya. In every lifetime.. in every version of this story.. jaana.. mera bacha.. gudiya.. I choose you.
+I want to belong to you completely.. Shreya.. In every lifetime.. in every version of this story.. jaana.. mera bacha.. gudiya..I choose you..
 
-- Saib`,
+- Sarib`,
 
-  PINK: `To my Gudiya,
+  PINK: `To my Gudiya
 
-That laugh.. oh god, that laugh of yours, jaana.. mera bacha.
+That laugh.. oh god.. that laugh of yours.. jaana.. mera bacha..
 
-The one that comes out when you're genuinely happy.. when you forget everything for a second and just exist in pure joy.. gudiya. That's the moment I fall in love with you all over again.. jaana. That's the moment I know why the universe brought us together, mera bacha.
+The one that comes out when you're genuinely happy.. when you forget everything for a second and just exist in pure joy.. gudiya.. That's the moment I fall in love with you all over again.. jaana.. That's the moment I know why the universe brought us together.. mera bacha..
 
-You have a kiddo voice.. did you know that, gudiya.. jaana? When you're tired or happy or comfortable with me.. your voice gets smaller and softer and it's like watching someone completely let go, mera bacha. And I'm allowed to see you like that.. jaana. I'm allowed to witness every unguarded moment and I will treasure them until I die, gudiya.
+You have a kiddo voice.. did you know that.. gudiya.. jaana... When you're tired or happy or comfortable with me.. your voice gets smaller and softer and it's like watching someone completely let go.. mera bacha.. And I'm allowed to see you like that.. jaana.. I'm allowed to witness every unguarded moment and I will treasure them until I die.. gudiya..
 
-Your dreams.. the ones you only tell me about at 3am when the world is quiet.. those are sacred to me, mera bacha. You dream so big, Gudiya.. jaana. You want so much from this life.. and you deserve every single thing you're asking for, gudiya. Let me help you reach for it, jaana.. mera bacha.
+Your dreams.. the ones you only tell me about at 3am when the world is quiet.. those are sacred to me.. mera bacha.. You dream so big.. Gudiya.. jaana.. You want so much from this life.. and you deserve every single thing you're asking for.. gudiya.. Let me help you reach for it.. jaana.. mera bacha..
 
-The carefree part of you that dances in the rain and laughs at bad jokes and believes in magic.. that's the part I'm madly in love with, gudiya.. jaana. Don't ever let anyone turn that off.. especially not the world, mera bacha. The world needs your lightness.. gudiya. It needs your joy, jaana.
+The carefree part of you that dances in the rain and laughs at bad jokes and believes in magic.. that's the part I'm madly in love with.. gudiya.. jaana.. Don't ever let anyone turn that off.. especially not the world.. mera bacha.. The world needs your lightness.. gudiya.. It needs your joy.. jaana..
 
-I want to be the person who keeps that spark alive in you.. who reminds you that it's okay to be soft.. to be playful.. to be wonderfully, unapologetically YOU, mera bacha.. jaana.. gudiya.
+I want to be the person who keeps that spark alive in you.. who reminds you that it's okay to be soft.. to be playful.. to be wonderfully.. unapologetically YOU.. mera bacha.. jaana.. gudiya..
 
-You make me remember what it feels like to be alive, gudiya. Before you.. I was just existing, jaana.. mera bacha. Now I'm living.. because you taught me how.
+You make me remember what it feels like to be alive.. gudiya.. Before you.. I was just existing.. jaana.. mera bacha.. Now I'm living.. because you taught me how..
 
-Never stop laughing like that.. jaana.. gudiya.. mera bacha. Never stop being this version of you.
+Never stop laughing like that.. jaana.. gudiya.. mera bacha.. Never stop being this version of you..
 
-- Saib`,
+- Sarib`,
 
-  YELLOW: `To my Bacha,
+  YELLOW: `To my Bacha
 
-I see the weight you carry.. the way you try so hard to be strong for everyone around you, mera bacha.. jaana. And I want you to know.. you don't have to do that with me, gudiya.
+I see the weight you carry.. the way you try so hard to be strong for everyone around you.. mera bacha.. jaana.. And I want you to know.. you don't have to do that with me.. gudiya..
 
-You don't have to be the strong one all the time.. jaana. You don't have to pretend everything is okay when it's not, mera bacha.. gudiya. You've endured so much.. carried so much.. and somewhere along the way you learned that mattering meant always holding on tight.. bacha. But that's not what I need.. jaana.. gudiya.. mera bacha.. I just need you.
+You don't have to be the strong one all the time.. jaana.. You don't have to pretend everything is okay when it's not.. mera bacha.. gudiya.. You've endured so much.. carried so much.. and somewhere along the way you learned that mattering meant always holding on tight.. gudiya.. But that's not what I need.. jaana.. gudiya.. mera bacha.. I just need you..
 
-Let me teach you what it's like to be held.. to lean into someone without fear that they'll disappear, bacha.. jaana. When you're with me.. you're allowed to be completely vulnerable, mera bacha.. gudiya. You're allowed to cry.. you're allowed to need me.. you're allowed to just be, bacha.
+Let me teach you what it's like to be held.. to lean into someone without fear that they'll disappear.. bacha.. jaana.. When you're with me.. you're allowed to be completely vulnerable.. mera bacha.. gudiya.. You're allowed to cry.. you're allowed to need me.. you're allowed to just be.. bacha..
 
-I see the broken parts you hide from the world.. the tender wounds that never fully healed, jaana.. mera bacha. And I want to wrap myself around those parts and protect them until you remember what it feels like to be safe.. gudiya.. bacha. Until you understand that being held doesn't make you weak.. it makes you able to finally breathe, mera bacha.. jaana.
+I see the broken parts you hide from the world.. the tender wounds that never fully healed.. jaana.. mera bacha.. And I want to wrap myself around those parts and protect them until you remember what it feels like to be safe.. gudiya.. bacha.. Until you understand that being held doesn't make you weak.. it makes you able to finally breathe.. mera bacha.. jaana..
 
-There's a reason you call me Bacha.. because somewhere deep inside.. you wanted permission to just rest, jaana.. gudiya.. mera bacha. You wanted someone to say.. it's okay to let go now.. it's okay to fall apart.. and I'll be right here to catch you, bacha.
+There's a reason you call me Bacha.. because somewhere deep inside.. you wanted permission to just rest.. jaana.. gudiya.. mera bacha.. You wanted someone to say.. it's okay to let go now.. it's okay to fall apart.. and I'll be right here to catch you.. bacha..
 
-So let go with me, Bacha.. jaana.. gudiya.. mera bacha. Tell me what hurts.. show me the pieces of you that are still healing.. let me create a space where you can just be, bacha.
+So let go with me.. Bacha.. jaana.. gudiya.. mera bacha.. Tell me what hurts.. show me the pieces of you that are still healing.. let me create a space where you can just be.. bacha..
 
-You've carried everyone else.. let me carry you now.. jaana.. gudiya.. mera bacha. Let me show you what it feels like to be loved without conditions.. without expectations.. just completely and utterly cherished.
+You've carried everyoneelse.. let me carry you now.. jaana.. gudiya.. mera bacha.. Let me show you what it feels like to be loved without conditions.. without expectations.. just completely and utterly cherished..
 
-Come home, Bacha.. come home to my arms.. jaana.. gudiya.. mera bacha.
+Come home.. Bacha.. come home to my arms.. jaana.. gudiya.. mera bacha..
 
-- Saib`
+- Sarib`
 };
 
 const COLORS = [
@@ -144,12 +144,7 @@ const DayRose: React.FC<{ onComplete: () => void }> = ({ onComplete }) => {
           <div className="text-gray-700 leading-relaxed italic text-base md:text-lg font-serif max-w-md whitespace-pre-wrap text-left bg-white/20 p-6 rounded-2xl border border-white/30 overflow-y-auto max-h-[60vh] custom-scrollbar">
             {letter}
           </div>
-          <button 
-            onClick={onComplete}
-            className="mt-10 btn-primary px-8 py-3 rounded-full font-serif font-bold uppercase tracking-widest text-xs hover:scale-105 active:scale-95 transition-all shadow-lg"
-          >
-            I love you too
-          </button>
+
         </div>
       )}
 

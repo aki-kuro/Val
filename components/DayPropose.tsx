@@ -10,33 +10,32 @@ Will you marry me jaana?
   
 I know we've been together almost 11 months. I know I tell you I love you every day. But I'm asking anyway. Officially. Because you deserve to be asked. You deserve to be chosen. Every single day.  
   
-You know what you mean to me Jaana? You're the person who loved me when I told you about my issues and didn't try to fix me. The person who says "Jaana mera bacha sb theek h na?" and actually means it. The person who fights for us even when distance makes it so fucking hard.  
-  
-You're the soft laugh that makes time stop. The sleepy voice that I'm obsessed with. The strength I admire and the vulnerability you trust me with. You're everything I didn't know I needed until March 28th when fate finally got its shit together.  
-  
-I want the future with you Shreya. Not some perfect Instagram version. The real one. The one where we argue about what to eat for dinner. Where I massage your belly when you're in pain instead of being useless 550 kilometers away. Where I get to hold your hands. Where waking up next to you isn't just something I dream about.  
-  
-I'm working on closing this distance. I promise you I'm working on it. Because this? Us? This is worth every effort. Every sacrifice. Every hard day.  
-  
-You showed me what it means to choose someone. To really choose them. Not because it's easy but because it's THEM. Because it's you.  
-  
-So I'm asking you gudiya.  
-  
-Will you be mine? Not just for Valentine's Day. But for every day after that. For the boring days and the beautiful days and the hard days and all of it.  
-  
-Will you choose me the way I choose you?  
-  
-I already know your answer. I can hear you saying "Sarib+ obviously yes" in that tone that makes me smile like an idiot.  
-  
-But I wanted to ask anyway.  
-  
-I love you Shreya. I really really love you meri gudiya.  
-  
-Now click yes so I can see the confetti.  
-  
-- Your Saiz  
-  
-P.S. - The "No" button? Yeah that's going to run away from you. Because no isn't an option when it comes to us.`;
+  You know what you mean to me Jaana? You're the person who loved me when I told you about my issues and didn't try to fix me. The person who says "Jaana mera bacha sb theek h na?" and actually means it. The person who fights for us even when distance makes it so fucking hard.  
+    
+    You're the soft laugh that makes time stop. The sleepy voice that I'm obsessed with. The strength I admire and the vulnerability you trust me with. You're everything I didn't know I needed until March 28th when fate finally got its shit together.  
+      
+      I want the future with you Shreya. Not some perfect Instagram version. The real one. The one where we argue about what to eat for dinner. Where I massage your belly when you're in pain instead of being useless 550 kilometers away. Where I get to hold your hands. Where waking up next to you isn't just something I dream about.  
+        
+        I'm working on closing this distance. I promise you I'm working on it. Because this? Us? This is worth every effort. Every sacrifice. Every hard day.  
+          
+          You showed me what it means to choose someone. To really choose them. Not because it's easy but because it's THEM. Because it's you.  
+            
+            So I'm asking you gudiya.  
+              
+              Will you be mine? Not just for Valentine's Day. But for every day after that. For the boring days and the beautiful days and the hard days and all of it.  
+                
+                Will you choose me the way I choose you?  
+                  
+                  I already know your answer. I can hear you saying "ofcc i'll marry you jaana" in that tone that makes me smile like an idiot..
+                    
+                    But I wanted to ask anyway.  
+                      
+                      I love you Shreya. I really really love you meri gudiya.  
+                      
+                          
+                          - Your Sarib
+                            
+                            P.S. - The "No" button? Yeah that's going to run away from you. Because no isn't an option when it comes to us.`;
 
 const DayPropose: React.FC<{ onComplete: () => void }> = ({ onComplete }) => {
   const [decided, setDecided] = useState(false);
@@ -154,12 +153,7 @@ const DayPropose: React.FC<{ onComplete: () => void }> = ({ onComplete }) => {
             </div>
           </div>
 
-          <button 
-            onClick={onComplete}
-            className="mt-4 px-10 py-4 rounded-full bg-[var(--accent)] text-white font-bold uppercase tracking-widest text-xs shadow-lg hover:scale-105 active:scale-95 transition-all"
-          >
-            I'm yours
-          </button>
+
         </div>
       )}
       
