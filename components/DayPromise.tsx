@@ -3,19 +3,19 @@ import React, { useState } from 'react';
 import { githubStorage } from '../services/githubService';
 
 const PRESETS = [  
-  "I promise to choose you every single day Jaana especially on the days when it's hard and distance makes everything feel impossible",  
-  "I promise this distance is temporary and I'm doing everything I can to end it",  
-  "I promise to never let you doubt how much I love you kilometers mean nothing compared to what we have",  
-  "I promise to be there for you even when I physically can't be - through screens, through voice notes, through 3am messages, whatever it takes",  
-  "I promise to love every version of you Jaana - the strong one who fights through everything and the vulnerable one who shows me that inner child",  
-  "I promise to fight for us no matter what obstacles come our way - giving up isn't an option when it comes to you and me",  
-  "I promise to make you feel secure even from far away - you never have to question where you stand with me",  
-  "I promise to build the future we dream about together the simple daily life where you're just there and that's everything",  
-  "I promise to protect that inner child you hide from everyone else you're safe with me gudiya all of you",  
-  "I promise this distance is just a chapter in our story, not the whole book Jaana"  
-];
-
-const BUD_POSITIONS = [
+  "I promise to choose you even on the hardest days.. when distance feels like it's winning and everything aches.. I will still choose you..",  
+    "I promise this distance is just temporary.. I'm working every single day to close it.. and when I finally hold you.. it will be forever..",  
+      "I promise to remind you constantly what you mean to me.. because kilometers can't measure love.. and my heart is always there with you..",  
+        "I promise to be present even when I'm far away.. through screens at 3am.. voice notes that ramble.. random voice calls.. whatever you need.. I'm here..till im in your arms..",  
+          "I promise to love every version of you.. the strong fighter who carries the world and the kiddo one who lets me see inside.. especially that version..",  
+            "I promise to fight for us fiercely.. to never settle.. to never let external things tear down what we're building.. because giving up isn't even a thought..",  
+              "I promise to make you feel loved even from 550 kilometers away.. you will never doubt where you stand with me.. ever.. that's a promise I'm writing with my entire heart..",  
+                "I promise to build the life we dream about.. the one where morning coffee is next to you.. where I can just hold your hand whenever I want.. that's coming..",  
+                  "I promise to be your safe place.. the one person you never have to hide from.. who sees all of you and loves every piece.. no matter what..",  
+                    "I promise that this distance is just a chapter.. one we're writing together.. and the best part of our story is still coming.. I can feel it.."  
+                    ];
+                    
+                    const BUD_POSITIONS = [
   { x: 120, y: 100 },
   { x: 280, y: 120 },
   { x: 200, y: 50 },
