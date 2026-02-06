@@ -65,42 +65,42 @@ const DayValentine: React.FC<{ onComplete: () => void }> = ({ onComplete }) => {
     {
       title: "The Beginning",
       icon: "🌹",
-      content: `We bloomed with a ${journeyData.rose?.color || 'passionate'} rose, marking the beginning of something that transcends space and time. March 28th changed everything.`
+      content: `March 28th.. I still can't believe fate worked like that.. You came into my life and suddenly everything made sense.. Before you.. I was just going through the motions.. And then you showed up and changed the entire colour of my world.. A ${journeyData.rose?.color || 'passionate'} rose for the person who'll forever be my person..`
     },
     {
       title: "The Proposal",
       icon: "💍",
-      content: `You chose "Yes". You chose us. You chose forever, proving that distance is just a number compared to the gravity of our love.`
+      content: `You said yes.. jaana.. And in that moment.. 550 kilometers didn't exist.. When you said those words.. my entire chest lit up.. This wasn't just about a question.. jaana it was you choosing to keep choosing me.. Even when it's hard.. Even when distance tries to convince you it shouldn't be this way.. You chose us anyway..`
     },
     {
       title: "Sweet Moments",
       icon: "🍫",
-      content: `Every reason, every memory shared over chocolates... they're the small bricks building our fortress. I'm obsessed with every bit of you.`
+      content: `Every chocolate reason.. every memory.. they weren't just words.. mera bacha.. They were snapshots of us.. The moments where you're half asleep and perfect.. The moments where you let me see all of you..the real you.. These little things.. they're the fortress we're building.. piece by piece.. and I'm completely obsessed with you in every way..`
     },
     {
       title: "The Comfort",
       icon: "🧸",
-      content: `Your answers, your vulnerability... you built a teddy that represents the safety and warmth we find in each other's digital presence.`
+      content: `When you answered those questions.. when you let me see the parts that are hidden.. gudiya.. that's when I realized.. I want to be the safe place for you.. The one person you never have to pretend with.. A teddy that holds your secrets.. your fears.. your dreams.. And never lets go.. That's what I want to be for you.. and what you've always been for me..`
     },
     {
       title: "The Vow",
       icon: "🤝",
-      content: `"${journeyData.promise?.custom || 'I promise to love you through every season and every distance, forever.'}" - A root planted deep in our soil.`
+      content: `"${journeyData.promise?.custom || 'I promise to keep choosing you.. every single day.. especially on the days when distance feels impossible..'}"  This isn't just words.. jaana.. This is a root.. planted so deep in the ground.. that no amount of kilometers can shake it loose.. This is forever..jaana and I mean it with every fiber of my being..`
     },
     {
       title: "The Connection",
       icon: "🫂",
-      content: `We closed the distance in our hearts. 550km felt like nothing when we finally "hugged" through the screen. One day, it'll be real.`
+      content: `When we finally got to hug mera bacha.. even through a screen..I was holding you in the only way I could.. and somehow it felt like the realest hug I've ever had.. We're closing this distance.. day by day.. promise by promise.. One day you'll be here.. and this distance will just be a story we tell about how strong we were jaana`
     },
     {
       title: "The Seal",
       icon: "💋",
-      content: `A kiss sent across the miles. A match made in destiny. Sealed with the promise of a thousand real ones to come.`
+      content: `A kiss sent across the miles.. It might seem small.. but it's everything.. It's the promise of real ones coming soon.. It's me telling you without words that loving you is the easiest thing I've ever done.. When we finally kiss for real.. gudiya.. it's going to break the entire world.. and I can't wait..`
     },
     {
       title: "Synthesis",
       icon: "✨",
-      content: "This week wasn't just a celebration, it was a testament. A synthesis of every laugh, every 'mera bacha', every 3am call. It's our story, and it's just starting."
+      content: "This week.. this entire journey we just walked through together.. it wasn't some celebration we were doing for the internet.. It was us.. building something real.. One rose.. one proposal.. one promise at a time.. Every laugh.. every 'jaana'.. every 3am message.. that's the real story.. That's us.. and we're just getting started.. The best part is still coming.. I promise you.. meri gudiya.."
     }
   ];
 
