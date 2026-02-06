@@ -85,7 +85,7 @@ const DayHug: React.FC<{ onComplete: () => void }> = ({ onComplete }) => {
             <div className="mb-4">
               <HeartIcon size={120} filled={true} />
             </div>
-            <p className="font-serif italic text-6xl text-[var(--accent)] drop-shadow-sm">HUG! ❤️</p>
+
             <p className="font-serif italic opacity-60 text-lg mt-2">No distance is too far for us Jaana.</p>
           </div>
         )}
