@@ -5,103 +5,81 @@ import { RoseData } from '../types';
 import { RoseIcon } from './AestheticIcons';
 
 const ROSE_LETTERS: Record<string, string> = {
-  RED: `Shreya Jaana,
+  RED: `To my Shreya,
 
-March 28th, 2025. That's the day everything changed, meri gudiya. Out of millions of people texting millions of times...somehow we matched. We sometimes think it's random, but I know it's fate, mera bacha. The universe doesn't mess up twice when it comes to you and me.
+I still blush when I say your name.. even after 11 months. You know this, mera bacha. You tell me you love it when I do, and so I keep saying it... jaana.. just to see that smile. Just to lose myself for a second in the fact that you're real and you're mine, gudiya.
 
-That first call though, Jaana. Fuck. We just sat there staring at each other like we finally found what we'd been searching for without even knowing we were searching. No words. Just this feeling of "oh...there you are," mera bacha. Like I'd been waiting my whole life and didn't even know it until I saw your face on my screen, gudiya.
+There's a moment right before I fall asleep where I think about your face... the way you look at me when you think I'm not paying attention, mera bacha. Like you're trying to memorize me the same way I'm memorizing you.. jaana. And it kills me, Shreya. It absolutely destroys me.. because I can't translate that feeling into words, gudiya.
 
-And then you laughed. That soft laugh, Jaana. Time just...stopped existing. I don't know how to explain it better than that, meri gudiya. When you laugh everything else disappears and it's just you and that sound and me trying to memorize it forever, mera bacha.
+When we talk.. I mean REALLY talk.. when you're telling me about the things that scare you, the things you've never told anyone else.. that's when I know what love actually means, mera bacha. It's not the grand gestures. It's you trusting me with the parts of you that you've locked away... and me holding them so gently they never break, jaana.. gudiya.
 
-550 kilometers between us, Jaana. 550 fucking kilometers. And somehow you make it feel like nothing and everything at the same time, gudiya. Nothing because when I hear "Jaana mera bacha" in that voice of yours distance doesn't exist. Everything because I can't hold your hands, mera bacha. Can't massage your head when it hurts. Can't just be there the way I'm supposed to be for my gudiya.
+Your voice changes when you're vulnerable with me... it gets softer. Smaller somehow. And I want to be the only person who gets to see you like this.. raw and unfiltered and real, mera bacha. This version of you.. just for me, jaana.. gudiya.
 
-I've listened to "I love you Saiz, I really love you" 2000+ times, Jaana. Maybe more. I lost count. I don't care if that's obsessive, mera bacha. I AM obsessed with you Shreya, meri gudiya. With everything you do. With the way you say my name. With how you fight for us even on the hardest days. With how you choose me every single day despite this distance trying its best to break us, Jaana.
+I think about holding your face in my hands constantly.. about brushing your hair back and just looking at you, mera bacha. About tracing the lines of your face like I'm trying to write poetry with my fingertips.. jaana.. about the first time I get to kiss you and know it's not through a screen, gudiya.
 
-You showed me what it means to choose someone, mera bacha. Not because it's easy. But because it's them. Because it's you, gudiya.
+Distance is a cruel thing.. but you make even the distance feel like it means something, mera bacha. Like we're collecting moments of waiting so that when we're finally together.. every second matters.. jaana.. gudiya.
 
-This distance is temporary, Jaana. I'm working on it. But you and me? That's permanent, mera bacha.
+I love you, Shreya. The way you love me back is the bravest thing I've ever witnessed, mera bacha.
 
-I love you. I really really love you meri gudiya.
+- Saib`,
 
-- Sarib`,
+  WHITE: `To my Jaana,
 
-  WHITE: `Shreya Jaana,
+There are no words for you.. and somehow you've become every word I've ever needed, mera bacha.. gudiya.
 
-You know when I knew I loved you? Really loved you, mera bacha?
+Jaana is more than your name... it's the sound of coming home. It's the feeling of finding something you didn't know you were searching for, mera bacha. When I say it, my entire body relaxes.. like I'm finally safe, gudiya.. like you're right there.
 
-When I told you about my issues, gudiya. My problems. All the broken parts I usually hide. And you didn't try to fix me, Jaana. You just sat there with me. Listened. Didn't judge. Didn't try to solve me like I'm some puzzle that needs correcting, meri gudiya.
+You are the depth I didn't know I needed.. jaana. You see me.. not the version I show the world.. but the version that's terrified and hopeful and desperately in love, mera bacha. And you stay anyway.. without needing me to be anyone other than who I am, gudiya.
 
-You just loved me through it, mera bacha.
+There's a kind of protection in the way you love me.. Jaana. You hold my broken parts and tell me they're beautiful.. mera bacha. You tell me I'm safe with you.. and I believe you because you've never given me a reason not to, gudiya.
 
-Most people hear your problems and immediately want to give advice or fix things or make it better, Jaana. You? You understood something most people don't, gudiya. Sometimes people don't need fixing. Sometimes they just need someone to sit with them in the dark until they're ready to find the light themselves, mera bacha.
+The distance aches.. god, it aches, jaana. I miss you in a way that's physical.. like my body knows you're not here and it refuses to believe it, mera bacha. But when you call.. when I hear your voice.. suddenly 550 kilometers doesn't feel like an ending.. gudiya. It feels like a promise we're keeping.
 
-That's what you do for me, meri gudiya. You don't try to change me, Jaana. You don't need me to be different. You see me - the real me - and you stay anyway, mera bacha. You choose me anyway, gudiya.
+You've built a home inside me.. one I carry everywhere, jaana. On hard days, I go there.. mera bacha. Late nights, I find you in my chest.. gudiya. This feeling of belonging to someone.. of being chosen by someone who knows all the darkness and still comes back.. that's what Jaana means.
 
-And that inner child you hide from everyone else? I see her too Shreya, Jaana. I see how hard you try to be strong, meri gudiya. And you ARE strong. But you don't have to hide that vulnerable side from me, mera bacha. I love that part of you too. Maybe especially that part, gudiya.
+I want to belong to you completely, Shreya. In every lifetime.. in every version of this story.. jaana.. mera bacha.. gudiya.. I choose you.
 
-You make me softer without making me weak, Jaana. You make me stronger without making me hard. That's rare, meri gudiya. That's so fucking rare, mera bacha.
+- Saib`,
 
-You taught me that love isn't about being perfect for someone, Jaana. It's about being real with them, gudiya. Completely. Messily. Honestly, mera bacha.
+  PINK: `To my Gudiya,
 
-I could write a thousand letters and still not capture what you mean to me, Jaana. But I'll try anyway, meri gudiya. Every single day. For the rest of my life if you let me, mera bacha.
+That laugh.. oh god, that laugh of yours, jaana.. mera bacha.
 
-Thank you for loving me when I'm difficult to love, Jaana. Thank you for understanding me when I don't even understand myself, meri gudiya.
+The one that comes out when you're genuinely happy.. when you forget everything for a second and just exist in pure joy.. gudiya. That's the moment I fall in love with you all over again.. jaana. That's the moment I know why the universe brought us together, mera bacha.
 
-You're everything Shreya, mera bacha. Just...everything, gudiya.
+You have a kiddo voice.. did you know that, gudiya.. jaana? When you're tired or happy or comfortable with me.. your voice gets smaller and softer and it's like watching someone completely let go, mera bacha. And I'm allowed to see you like that.. jaana. I'm allowed to witness every unguarded moment and I will treasure them until I die, gudiya.
 
-- Your Saiz`,
+Your dreams.. the ones you only tell me about at 3am when the world is quiet.. those are sacred to me, mera bacha. You dream so big, Gudiya.. jaana. You want so much from this life.. and you deserve every single thing you're asking for, gudiya. Let me help you reach for it, jaana.. mera bacha.
 
-  PINK: `My Shreya Jaana,
+The carefree part of you that dances in the rain and laughs at bad jokes and believes in magic.. that's the part I'm madly in love with, gudiya.. jaana. Don't ever let anyone turn that off.. especially not the world, mera bacha. The world needs your lightness.. gudiya. It needs your joy, jaana.
 
-Jaana mera bacha sb theek h na?
+I want to be the person who keeps that spark alive in you.. who reminds you that it's okay to be soft.. to be playful.. to be wonderfully, unapologetically YOU, mera bacha.. jaana.. gudiya.
 
-I swear to god when you say that...when you ask if I'm okay in that soft worried voice, meri gudiya...something in my chest just breaks and heals at the same time, mera bacha.
+You make me remember what it feels like to be alive, gudiya. Before you.. I was just existing, jaana.. mera bacha. Now I'm living.. because you taught me how.
 
-You know what I'm obsessed with? Like genuinely obsessed with, Jaana? The way you say "Sarib+" in that tone that's just...yours, gudiya. The way "Jaana" sounds different when YOU say it. Soft. A little shy. Like you're giving me something precious every time, mera bacha.
+Never stop laughing like that.. jaana.. gudiya.. mera bacha. Never stop being this version of you.
 
-And your sleepy voice, Jaana. Oh my god your sleepy voice, meri gudiya. When you're exhausted but you stay up anyway just to talk to me. When your words get all slow and lovely and I can tell you're fighting sleep just to hear me a little longer, mera bacha. Those are my favorite moments Shreya, gudiya. When you're too tired to pretend. When you're just...you. Raw and real and perfect, Jaana.
+- Saib`,
 
-I think about the small things constantly, mera bacha. How your eyes look when you're looking at me through the screen, meri gudiya. How your whole face changes when you smile, Jaana. That exact expression you make when you're sleepy and happy at the same time, gudiya.
+  YELLOW: `To my Bacha,
 
-I know I can't hold you yet, mera bacha. Can't touch your face or play with your hair or do any of the things I think about doing every single day, Jaana. But meri gudiya...when I finally can? I'm never letting go. Never, mera bacha.
+I see the weight you carry.. the way you try so hard to be strong for everyone around you, mera bacha.. jaana. And I want you to know.. you don't have to do that with me, gudiya.
 
-Mera bacha aaja mere pass, Jaana. I know you can't. Not yet. But soon. I'm working on it, gudiya. I promise I'm working on closing these 550 kilometers, meri gudiya.
+You don't have to be the strong one all the time.. jaana. You don't have to pretend everything is okay when it's not, mera bacha.. gudiya. You've endured so much.. carried so much.. and somewhere along the way you learned that mattering meant always holding on tight.. bacha. But that's not what I need.. jaana.. gudiya.. mera bacha.. I just need you.
 
-Until then I'll keep saying I love you in every way I know how, Jaana. Through screens. Through voice notes you'll probably listen to once while I listen to yours 200 times, mera bacha. Through messages at 3am because I can't sleep without telling you goodnight properly, gudiya.
+Let me teach you what it's like to be held.. to lean into someone without fear that they'll disappear, bacha.. jaana. When you're with me.. you're allowed to be completely vulnerable, mera bacha.. gudiya. You're allowed to cry.. you're allowed to need me.. you're allowed to just be, bacha.
 
-You're my favorite person Shreya, Jaana. My favorite everything, mera bacha. The way you exist in this world makes me want to exist in it too, meri gudiya.
+I see the broken parts you hide from the world.. the tender wounds that never fully healed, jaana.. mera bacha. And I want to wrap myself around those parts and protect them until you remember what it feels like to be safe.. gudiya.. bacha. Until you understand that being held doesn't make you weak.. it makes you able to finally breathe, mera bacha.. jaana.
 
-I love you meri gudiya, mera bacha. So much it scares me sometimes, Jaana.
+There's a reason you call me Bacha.. because somewhere deep inside.. you wanted permission to just rest, jaana.. gudiya.. mera bacha. You wanted someone to say.. it's okay to let go now.. it's okay to fall apart.. and I'll be right here to catch you, bacha.
 
-- Sarib`,
+So let go with me, Bacha.. jaana.. gudiya.. mera bacha. Tell me what hurts.. show me the pieces of you that are still healing.. let me create a space where you can just be, bacha.
 
-  YELLOW: `Shreya Jaana,
+You've carried everyone else.. let me carry you now.. jaana.. gudiya.. mera bacha. Let me show you what it feels like to be loved without conditions.. without expectations.. just completely and utterly cherished.
 
-Remember when we couldn't talk for 4 days recently, mera bacha? I was crashing out. Like genuinely losing it, gudiya. And that's when it hit me how much I NEED you in my life, Jaana. Not want. Need, meri gudiya.
+Come home, Bacha.. come home to my arms.. jaana.. gudiya.. mera bacha.
 
-You're not just someone I love, mera bacha. You're the person I choose to do life with, gudiya. The boring parts. The hard parts. The beautiful mundane ordinary parts that people don't write songs about, Jaana.
-
-You know what I want, meri gudiya? Just simple daily things with you in it, mera bacha. Grocery shopping together. Watching you eat breakfast I made, Jaana. Falling asleep next to you without having to say goodbye through a screen, gudiya. Just...existing together, mera bacha.
-
-The future doesn't need to be complicated Shreya, Jaana. The future is simple: you're in it, meri gudiya. That's literally all that matters. Everything else we'll figure out as we go, mera bacha.
-
-You fight for us even on days when it's hard, gudiya. Even when the distance feels impossible, Jaana. Even when we're both exhausted and frustrated and missing each other so much it physically hurts, mera bacha. You still choose us. You still choose me, meri gudiya.
-
-That means everything Jaana. Everything, mera bacha.
-
-I don't have poetic words for this, gudiya. I just have the truth, Jaana. You make me want to be better. Not because you're trying to change me, mera bacha. But because loving you makes me want to show up as the best version of myself, meri gudiya. For you. For us. For the future we're building together across these 550 kilometers, Jaana.
-
-This distance is teaching me something, mera bacha. It's teaching me that love isn't about proximity, gudiya. It's about commitment. It's about choosing someone even when it's difficult. Especially when it's difficult, Jaana.
-
-And I choose you Shreya, meri gudiya. Every single day. In every single way, mera bacha.
-
-The distance is temporary, Jaana. My love for you is permanent, gudiya.
-
-Come to me soon Jaana. Or I'll come to you, mera bacha. Either way...we're ending this distance. Together, meri gudiya.
-
-I love you meri gudiya, mera bacha.
-
-- Your Saiz`
+- Saib`
 };
 
 const COLORS = [
