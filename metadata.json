@@ -1,0 +1,7 @@
+{
+  "name": "Valentine's Week 2026: Our Journey",
+  "description": "An interactive, 8-day experience celebrating Valentine's week with GitHub-backed persistence and personalized AI touches.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
