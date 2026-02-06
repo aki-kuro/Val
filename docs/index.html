@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Favorite Person</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Montserrat:wght@100;200;300;400;500;600&family=Parisienne&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --soft-pink: #FFF5F0;
+            --accent: #FF7E5F;
+        }
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: var(--soft-pink);
+            overflow-x: hidden;
+            color: #4A3728;
+            transition: background-color 1s ease, color 1s ease;
+        }
+        .font-serif { font-family: 'Cormorant Garamond', serif; }
+        .font-cursive { font-family: 'Parisienne', cursive; }
+        
+        .aesthetic-card {
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 3rem;
+        }
+
+        .neumorphic-soft {
+            background: rgba(255, 255, 255, 0.1);
+            box-shadow: 4px 4px 10px rgba(0,0,0,0.05), -4px -4px 10px rgba(255,255,255,0.8);
+            border-radius: 2rem;
+        }
+
+        /* Unified Interactive Element Transitions */
+        button, a.block {
+            transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease !important;
+        }
+
+        button:hover, a.block:hover {
+            transform: scale(1.05);
+            filter: brightness(1.05);
+        }
+
+        button:active, a.block:active {
+            transform: scale(0.95);
+            filter: brightness(0.95);
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: white;
+            box-shadow: 0 4px 15px rgba(255, 126, 95, 0.2);
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 6px 20px rgba(255, 126, 95, 0.3);
+        }
+
+        @keyframes fadeInScale {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-soft { animation: fadeInScale 0.8s ease-out forwards; }
+    </style>
+
+<link rel="stylesheet" href="/index.css">
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "@google/genai": "https://esm.sh/@google/genai@^1.40.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/"
+  }
+}
+</script>
+  <script type="module" crossorigin src="./assets/index-B995_1Vc.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+</body>
+</html>

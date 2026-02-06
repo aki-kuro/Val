@@ -19,5 +19,11 @@ export default defineConfig(({ mode }) => {
           '@': path.resolve(__dirname, '.'),
         }
       }
+      ,
+      // Output build to `docs` so GitHub Pages (using the `docs/` folder) can serve it.
+      base: './',
+      build: {
+        outDir: 'docs'
+      }
     };
 });
