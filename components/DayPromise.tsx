@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 import { githubStorage } from '../services/githubService';
 
 const PRESETS = [  
-  "I promise to choose you every single day Shreya - especially on the days when it's hard and distance makes everything feel impossible",  
-  "I promise I'm actively working to close these 550 kilometers - this distance is temporary and I'm doing everything I can to end it",  
-  "I promise to never let the distance make you doubt how much I love you - kilometers mean nothing compared to what we have",  
+  "I promise to choose you every single day Jaana especially on the days when it's hard and distance makes everything feel impossible",  
+  "I promise this distance is temporary and I'm doing everything I can to end it",  
+  "I promise to never let you doubt how much I love you kilometers mean nothing compared to what we have",  
   "I promise to be there for you even when I physically can't be - through screens, through voice notes, through 3am messages, whatever it takes",  
   "I promise to love every version of you Jaana - the strong one who fights through everything and the vulnerable one who shows me that inner child",  
   "I promise to fight for us no matter what obstacles come our way - giving up isn't an option when it comes to you and me",  

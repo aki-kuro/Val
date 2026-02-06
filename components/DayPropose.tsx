@@ -6,7 +6,7 @@ import { HeartIcon } from './AestheticIcons';
 
 const PROPOSE_LETTER = `Shreya,  
   
-Will you be my Valentine?  
+Will you marry me jaana?  
   
 I know we've been together almost 11 months. I know I tell you I love you every day. But I'm asking anyway. Officially. Because you deserve to be asked. You deserve to be chosen. Every single day.  
   
