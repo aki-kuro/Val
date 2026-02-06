@@ -9,7 +9,13 @@ const Countdown: React.FC = () => {
   useEffect(() => {
     const timer = setInterval(() => {
       const now = new Date();
-      const nextDay = DAYS.find(d => new Date(d.date) > now);
+      const nextDay = DAYS.find(d => {
+        // Parse date as local midnight (IST) instead of UTC
+        const dateStr = d.date;
+        const [year, month, day] = dateStr.split('-');
+        const localDate = new Date(parseInt(year), parseInt(month) - 1, parseInt(day), 0, 0, 0, 0);
+        return localDate > now;
+      });
       
       if (!nextDay) {
         setTimeLeft(null);
@@ -17,7 +23,10 @@ const Countdown: React.FC = () => {
       }
 
       setNextDayName(nextDay.name);
-      const target = new Date(nextDay.date);
+      // Parse target date as local midnight (IST)
+      const dateStr = nextDay.date;
+      const [year, month, day] = dateStr.split('-');
+      const target = new Date(parseInt(year), parseInt(month) - 1, parseInt(day), 0, 0, 0, 0);
       const diff = target.getTime() - now.getTime();
 
       const hours = Math.floor(diff / (1000 * 60 * 60));
@@ -37,7 +46,7 @@ const Countdown: React.FC = () => {
   if (!timeLeft) {
     return (
       <div className="text-center py-6">
-        <span className="text-[var(--accent)] font-serif italic text-2xl">Every gift is waiting for you. ❤️</span>
+        <span className="text-[var(--accent)] font-serif italic text-2xl">Every gift is waiting for you</span>
       </div>
     );
   }
