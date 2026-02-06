@@ -47,11 +47,11 @@ That laugh.. oh god.. that laugh of yours.. jaana.. mera bacha..
 
 The one that comes out when you're genuinely happy.. when you forget everything for a second and just exist in pure joy.. gudiya.. That's the moment I fall in love with you all over again.. jaana.. That's the moment I know why the universe brought us together.. mera bacha..
 
-You have a kiddo voice.. did you know that.. gudiya.. jaana... When you're tired or happy or comfortable with me.. your voice gets smaller and softer and it's like watching someone completely let go.. mera bacha.. And I'm allowed to see you like that.. jaana.. I'm allowed to witness every unguarded moment and I will treasure them until I die.. gudiya..
+You have a kiddo voice.. did you know that.. gudiya.. jaana... When you're tired or just really happy.. your voice gets softer and it's like watching someone completely let go every worry.. mera bacha.. And only I'm the one who can see you like that.. jaana.. I'm the only one to witness every moment and I will treasure them until I die.. gudiya..
 
-Your dreams.. the ones you only tell me about at 3am when the world is quiet.. those are sacred to me.. mera bacha.. You dream so big.. Gudiya.. jaana.. You want so much from this life.. and you deserve every single thing you're asking for.. gudiya.. Let me help you reach for it.. jaana.. mera bacha..
+Your dreams.. the ones you only tell me about when the world is quiet.. those are sacred to me.. mera bacha.. You dream so big.. Gudiya.. jaana.. You want so much from this life.. and you deserve every single thing you're asking for.. gudiya.. Let me help you reach for it.. jaana..
 
-The carefree part of you that dances in the rain and laughs at bad jokes and believes in magic.. that's the part I'm madly in love with.. gudiya.. jaana.. Don't ever let anyone turn that off.. especially not the world.. mera bacha.. The world needs your lightness.. gudiya.. It needs your joy.. jaana..
+The carefree part of you that wants to dance in the rain and laughs at my bad jokes.. that's the part I'm madly in love with.. gudiya.. jaana.. i won't ever let anyone turn that off.. especially not the world.. mera bacha.. my world needs your lightness.. gudiya.. It needs your joy.. jaana..
 
 I want to be the person who keeps that spark alive in you.. who reminds you that it's okay to be soft.. to be playful.. to be wonderfully.. unapologetically YOU.. mera bacha.. jaana.. gudiya..
 
@@ -63,19 +63,19 @@ Never stop laughing like that.. jaana.. gudiya.. mera bacha.. Never stop being t
 
   YELLOW: `To my Bacha
 
-I see the weight you carry.. the way you try so hard to be strong for everyone around you.. mera bacha.. jaana.. And I want you to know.. you don't have to do that with me.. gudiya..
+I see the weight you carry.. the way you try so hard to be strong.. mera bacha.. jaana.. And I want you to know.. you don't have to do that with me.. gudiya..
 
-You don't have to be the strong one all the time.. jaana.. You don't have to pretend everything is okay when it's not.. mera bacha.. gudiya.. You've endured so much.. carried so much.. and somewhere along the way you learned that mattering meant always holding on tight.. gudiya.. But that's not what I need.. jaana.. gudiya.. mera bacha.. I just need you..
+You don't have to be the strong one all the time.. jaana.. You don't have to pretend everything is okay when it's not.. mera bacha..You've endured so much.. carried so much.. and somewhere along the way you learned that mattering meant always holding on tight.. gudiya.. But that's not what I need.. jaana.. gudiya.. mera bacha.. I just need you..
 
-Let me teach you what it's like to be held.. to lean into someone without fear that they'll disappear.. bacha.. jaana.. When you're with me.. you're allowed to be completely vulnerable.. mera bacha.. gudiya.. You're allowed to cry.. you're allowed to need me.. you're allowed to just be.. bacha..
+Let me teach you what it's like to be held.. to lean into someone without fear that they'll disappear.. bacha.. jaana.. When you're with me.. you can be completely carefree.. mera bacha.. gudiya.. You're allowed to cry.. you're allowed to need me.. you're allowed to just be.. bacha..
 
-I see the broken parts you hide from the world.. the tender wounds that never fully healed.. jaana.. mera bacha.. And I want to wrap myself around those parts and protect them until you remember what it feels like to be safe.. gudiya.. bacha.. Until you understand that being held doesn't make you weak.. it makes you able to finally breathe.. mera bacha.. jaana..
+I see the broken parts you hide from the world.. jaana.. mera bacha.. And I want to wrap myself around those parts and protect them until you remember what it feels like to be safe.. gudiya.. bacha.. Until you understand that being held doesn't make you weak.. it makes you able to finally breathe.. mera bacha.. jaana..
 
-There's a reason you call me Bacha.. because somewhere deep inside.. you wanted permission to just rest.. jaana.. gudiya.. mera bacha.. You wanted someone to say.. it's okay to let go now.. it's okay to fall apart.. and I'll be right here to catch you.. bacha..
+There's a reason i call you Bacha.. because somewhere deep inside.. you wanted permission to just rest.. jaana.. gudiya.. mera bacha.. You wanted someone to say.. it's okay to let go now.. it's okay to fall apart.. and I'll be right here to catch you.. bacha..
 
 So let go with me.. Bacha.. jaana.. gudiya.. mera bacha.. Tell me what hurts.. show me the pieces of you that are still healing.. let me create a space where you can just be.. bacha..
 
-You've carried everyoneelse.. let me carry you now.. jaana.. gudiya.. mera bacha.. Let me show you what it feels like to be loved without conditions.. without expectations.. just completely and utterly cherished..
+You've carried everything.. let me carry you now.. jaana.. gudiya.. mera bacha.. Let me show you what it feels like to be loved without conditions.. without expectations.. just completely and utterly cherished..
 
 Come home.. Bacha.. come home to my arms.. jaana.. gudiya.. mera bacha..
 
